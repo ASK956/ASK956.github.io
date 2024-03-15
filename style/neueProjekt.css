@@ -214,7 +214,7 @@ a {
   border: 1px solid rgba(234, 238, 244, 1);
   border-radius: 8px;
   box-sizing: border-box;
-  background-color: rgba(246, 250, 253, 1);
+  background-color: #e5eff6;
 }
 .placeholder {
   color: rgba(126, 146, 162, 1);
@@ -255,7 +255,7 @@ a {
   border: 1px solid rgba(234, 238, 244, 1);
   border-radius: 8px;
   box-sizing: border-box;
-  background-color: rgba(246, 250, 253, 1);
+  background-color: #e5eff6;
 }
 .placeholder-1 {
   color: rgba(126, 146, 162, 1);
